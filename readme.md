@@ -47,7 +47,6 @@ MIT App Inventor is used by students, educators, and hobbyists around the world 
 
 
 # How I implemented my app
-
 ## User Authentication
 
 **Landing Page**
